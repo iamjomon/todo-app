@@ -1,49 +1,51 @@
-## *Todo-App*
+# ToDo List
 
-   <img src="https://github.com/Jomon-J/Todo-App/blob/main/Preview.png" alt="Project Screenshot" width="500"/>
+![Preview](https://github.com/user-attachments/assets/fec595af-c718-434b-bd9a-eb832aea87a4)
 
-### 🔗 *Demo Site*
-   - Check out the live demo of this project: [Demo Site](https://Jomon-J.github.io/Todo-App)
-   
-###  *Key Features*
-   - Responsive Design
-   - Clean UI
-   - Personal and business categories
-   - Presistent data storage
+[***Live Demo***](https://todo.jomon.dev)  
 
-###  *Technologies Used*
-   - HTML
-   - CSS
-   - JavaScript
+---
 
-##  Getting Started
+## Features  
+- Responsive Design
+- Clean UI
+- Personal and business categories
+- Presistent data storage
 
-To get started with this project, you have two options:
+---
 
-### 1. *Clone the Repository*
-   - Use the following link to clone the repository to your local machine:
-    
-     ```bash
-     git clone https://github.com/Jomon-J/Todo-App.git
+## Technologies Used  
+- **HTML**: For structure  
+- **CSS**: For styling  
+- **JavaScript**: For real-time functionality  
 
-     
-   - Once cloned, navigate to the project directory:
-     
-     ```bash
+---
+
+## Getting Started  
+
+### Clone the Repository  
+Run the following commands to clone and navigate into the project:  
+
+```bash  
+    git clone https://github.com/Jomon-J/Todo-App.git
+
+```
+```
      cd Todo-App
-     
+```
+  
 
-### 2. *Fork the Repository*
-   - If you prefer, you can directly *fork* this repository.
-   - Click the *Fork* button at the top-right of this page.
-   - After forking, clone the repository from your account:
+### Fork the Repository  
+1. Fork this repository on GitHub.  
+2. Clone your fork:  
 
-     ```bash
-     git clone https://github.com/your-username/your-forked-repository-name.git
+```bash  
+   git clone https://github.com/your-username/your-forked-repository-name.git
 
+ ```
+    cd your-forked-repository-name    
+   
+---
 
 ### 🌟 *Don’t Forget to Star!*
    - If you find this project useful, please consider giving it a star ⭐. It helps others discover it too!
-
-###  *License*
-   - This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/MIT) file for details.
