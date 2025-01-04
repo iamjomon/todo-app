@@ -1,9 +1,9 @@
 ## *Todo-App*
 
-   <img src="https://github.com/Jomonh/Todo-App/blob/main/Preview.png" alt="Project Screenshot" width="500"/>
+   <img src="https://github.com/Jomon-J/Todo-App/blob/main/Preview.png" alt="Project Screenshot" width="500"/>
 
 ### 🔗 *Demo Site*
-   - Check out the live demo of this project: [Demo Site](https://Jomonh.github.io/Todo-App)
+   - Check out the live demo of this project: [Demo Site](https://Jomon-J.github.io/Todo-App)
    
 ###  *Key Features*
    - Responsive Design
@@ -24,7 +24,7 @@ To get started with this project, you have two options:
    - Use the following link to clone the repository to your local machine:
     
      ```bash
-     git clone https://github.com/Jomonh/Todo-App.git
+     git clone https://github.com/Jomon-J/Todo-App.git
 
      
    - Once cloned, navigate to the project directory:
