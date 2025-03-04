@@ -15,7 +15,7 @@
 Run the following commands to clone and navigate into the project:
 
 ```bash  
-git clone https://github.com/jomon-j/todo-app.git
+git clone https://github.com/iamjomon/todo-app.git
 ```
 ```bash
 cd todo-app
